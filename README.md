@@ -12,7 +12,7 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/sourlodine/Solana-Raydium-Volume-Bot.git
+git clone https://github.com/Daimmehmood/Solana-Volume-Bot-For-UglyDog
 cd Solana-Raydium-Volume-Bot
 ```
 2. Install dependencies
